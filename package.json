@@ -28,7 +28,7 @@
     "@moonbeam-network/api-augment": "^0.1801.0",
     "@polkadot/api": "^15.4.1",
     "@types/yargs": "^17.0.0",
-    "axios": "^1.7.9",
+    "axios": "^1.8.2",
     "coingecko-api": "^1.0.10",
     "divide-bigint": "1.0.4",
     "exceljs": "4.2.1",
